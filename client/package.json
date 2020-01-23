@@ -15,7 +15,7 @@
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-device-info": "^5.4.1",
-    "react-viro": "^2.17.0"
+    "react-viro": "npm:@iskander508/react-viro@0.61.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",

@@ -39,6 +39,7 @@ target 'google_day_ar_template' do
   pod 'ViroReact', :path => '../node_modules/react-viro/ios/'
   pod 'ViroKit', :path => '../node_modules/react-viro/ios/dist/ViroRenderer/'
 
+
   target 'google_day_ar_templateTests' do
     inherit! :search_paths
     # Pods for testing
